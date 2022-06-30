@@ -1,0 +1,15 @@
+{
+    "name": "核心",
+    "id": 1,
+    "cards": [
+        {
+            "id": 1,
+            "name": "Murloc Tinyfin",
+            "cost": 0,
+            "type": "Minion",
+            "rarity": "Common",
+            "minion": "Murloc",
+            "set": "core"
+        }
+    ]
+}
